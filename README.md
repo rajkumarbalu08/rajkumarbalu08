@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Rk
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Selenium and Python
-- 💞️ I’m looking to collaborate on ______
-- 📫 How to reach me --> only 📧
-
-<!---
-rajkumarbalu08/rajkumarbalu08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Know me: **Passionate QA/Data Analyst at WIPRO, leveraging analytical skills and attention to detail to ensure quality and efficiency. My journey in data analysis is fueled by a strong drive to uncover insights and improve processes, particularly in the healthcare and finance sectors.**
+What I'm looking for: **Eager to delve deeper into Data Analysis, with a keen interest in optimizing healthcare and financial processes.**
+Experience/Projects: **Involved in confidential internal projects, with experience in Healthcare and Insurance (Finance) sectors.**
